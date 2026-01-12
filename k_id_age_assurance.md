@@ -4,8 +4,7 @@ title: "k-ID and the storage of sensitive information"
 authors: "cheeseburger1337"
 date: 2026-01-12
 ---
-# k-ID and the storage of sensitive information
-## 2026-01-12
+# k-ID and the storage of sensitive information (2026-01-12)
 
 *I have done my best to provide accurate information in the article, however certain policies and regulations may change as time goes on. Archived versions of the websites I've accessed have been provided alongside the original links.*
 
